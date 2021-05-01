@@ -1,0 +1,47 @@
+
+
+body{
+    background-color: #e2dadb;
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav_tag{
+    background: #ffffff;
+    padding: 5px;
+    
+    text-align: right;
+
+}
+
+h2{
+    background-color: #dae2df;
+    margin: 2px;
+    padding: 2px;    
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+li{
+    text-align: center;
+    list-style-type: none;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
